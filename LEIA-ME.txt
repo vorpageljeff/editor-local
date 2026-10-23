@@ -1,0 +1,11 @@
+EDITOR LOCAL
+
+Abra index.html com dois cliques. Não precisa de instalação nem de internet.
+
+Recursos: texto formatado, títulos, fontes, cores, listas, alinhamento, tabelas, imagens, contagem de palavras e impressão em A4.
+
+Salvar arquivo: exporta JSON editável para seus Downloads. Abrir: recupera esses arquivos ou importa TXT. O rascunho automático fica apenas no navegador e pode desaparecer se você limpar os dados; salve arquivos para guardar seu trabalho.
+
+PDF: clique Imprimir / PDF e escolha Salvar como PDF no diálogo do navegador.
+
+Este protótipo não abre nem exporta DOCX, não tem colaboração e não oferece todos os recursos do Microsoft Word. Colar traz texto sem formatação. Não envia seus documentos a servidores.
